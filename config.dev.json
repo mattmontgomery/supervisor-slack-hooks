@@ -1,0 +1,36 @@
+{
+  "HOOKS": {
+    "PROCESS_STATE_STARTING": {
+      "hook": "",
+      "color": "warning"
+    },
+    "PROCESS_STATE_RUNNING": {
+      "hook": "",
+      "color": "good"
+    },
+    "PROCESS_STATE_STOPPING": {
+      "hook": "",
+      "color": "warning"
+    },
+    "PROCESS_STATE_STOPPED": {
+      "hook": "",
+      "color": "warning"
+    },
+    "PROCESS_STATE_EXITED": {
+      "hook": "",
+      "color": "warning"
+    },
+    "PROCESS_STATE_BACKOFF": {
+      "hook": "",
+      "color": "danger"
+    },
+    "PROCESS_STATE_FATAL": {
+      "hook": "",
+      "color": "danger"
+    },
+    "TICK_60": {
+      "hook": "",
+      "color": "good"
+    }
+  }
+}
