@@ -11,7 +11,7 @@ At current, only webhooks are supported. Token support may be added at a later d
 
 Using a built version of the application, configure the script in Supervisor. An example is below.
 
-An example supervisor configuration is found in [`supervisor/supervisor-slackhooks.conf`](supervisor/supervisor-slackhooks.conf).
+An example supervisor configuration is found in [`supervisor/supervisor-slack-hooks.conf`](supervisor/supervisor-slack-hooks.conf).
 
 ## Building
 
